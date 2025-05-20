@@ -37,7 +37,7 @@ Hi, I'm Abdulmajeed Adel Al-Harazi – aka [majeedev](https://github.com/majeede
 - 💼 [موقعي الشخصي (قريبًا) | My personal website (coming soon)](https://majeedev.com)  
 - 🔗 [مشاريعي الحية على Laravel Cloud | My live Laravel projects]:  
   - [انوفا تكنولوجي | Inova Technology](https://inoovatech-main-w3gfin.laravel.cloud/)  
-  - [لمسة فن | Lamset Fun]([https://inoovatech-main-w3gfin.laravel.cloud/](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/))
+  - [لمسة فن | Lamset Fun]([https://inoovatech-main-w3gfin.laravel.cloud/](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)  
 
 - 📬 للتواصل | Contact me: almajee2001@gmail.com
 
