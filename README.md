@@ -11,7 +11,9 @@
   <br>
   🌍 Currently in Moscow 🇷🇺 | 🧠 Master's in Software Engineering  
 </p>
+
 ---
+
 ## 📊 GitHub Profile Stats (Visual Dashboard)
 
 <p align="center">
@@ -27,6 +29,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=majeedev&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=majeedev&theme=tokyonight&utcOffset=+3" />
 </p>
+
 ---
 
 ## 🧠 About Me
