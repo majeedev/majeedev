@@ -28,7 +28,10 @@
 ## 🌐 روابط مهمة:
 
 - 💼 [موقعي الشخصي (قريبًا)](https://majeedev.com)
-- 🔗 [مشاريعي الحية على Laravel Cloud](https://inoovatech-main-w3gfin.laravel.cloud/)
+- 🔗 [مشاريعي الحية على Laravel Cloud]
+-انوفا تكنولوجي 🔗 (https://inoovatech-main-w3gfin.laravel.cloud/)
+-لمسة فن 🔗 (https://inoovatech-main-w3gfin.laravel.cloud/)
+
 - 📬 للتواصل: almajee2001@gmail.com
 
 ---
