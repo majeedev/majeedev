@@ -1,6 +1,6 @@
 <!-- Centered Header -->
 <p align="center">
-  <img src="https://github.com/majeedev/majeedev/blob/main/profile.png.png" alt="Hi, I'm Abdulmajeed Adel Al-Harazi" width="150" />
+ 
 </p>
 
 <h1 align="center">Hi, I'm Abdulmajeed Adel Al-Harazi 👋<br>aka <a href="https://github.com/majeedev">majeedev</a> 👨‍💻</h1>
