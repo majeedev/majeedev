@@ -5,13 +5,7 @@
 **Lecturer & Systems Developer passionate about coding & AI.**  
 Choose your language below to get to know me! 👇
 
----
 
-🔽 **اختر اللغة | Choose your language | Выберите язык**:
-
-- [🇬🇧 English](#english)
-- [🇸🇦 العربية](#العربية)
-- [🇷🇺 Русский](#русский)
 
 </div>
 
