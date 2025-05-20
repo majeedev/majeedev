@@ -1,7 +1,7 @@
 <div align="center">
 ![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-<img src="profile.png" alt="Hi, I'm Abdulmajeed Adel Al-Harazi" width="100%" />
+<img src="https://github.com/majeedev/majeedev/blob/main/profile.png" alt="Hi, I'm Abdulmajeed Adel Al-Harazi" width="100%" />
 
 **Lecturer & Systems Developer passionate about coding & AI.**  
 Choose your language below to get to know me! 👇
