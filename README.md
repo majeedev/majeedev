@@ -1,12 +1,13 @@
 <div align="center">
+![Welcome GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-<img src="https://github.com/majeedev/majeedev/assets/your-image-path/A_GIF_displays_white_monospace_text_on_a_black_bac.png" alt="Hi, I'm Abdulmajeed Adel Al-Harazi" width="100%" />
+<img src="profile.png" alt="Hi, I'm Abdulmajeed Adel Al-Harazi" width="100%" />
 
 **Lecturer & Systems Developer passionate about coding & AI.**  
 Choose your language below to get to know me! 👇
 
 
-
+🔽 **اختر اللغة | Choose your language | Выберите язык**:
 </div>
 
 ---
