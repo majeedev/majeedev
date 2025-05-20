@@ -11,16 +11,22 @@
   <br>
   🌍 Currently in Moscow 🇷🇺 | 🧠 Master's in Software Engineering  
 </p>
-
 ---
-
-## 📊 GitHub Profile Stats
+## 📊 GitHub Profile Stats (Visual Dashboard)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majeedev&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majeedev&layout=compact&theme=radical" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majeedev&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=majeedev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=majeedev&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=majeedev&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=majeedev&theme=tokyonight&utcOffset=+3" />
+</p>
 ---
 
 ## 🧠 About Me
@@ -153,14 +159,6 @@
 📬 Contact me: almajee2001@gmail.com
 
 </details>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=majeedev&theme=react-dark" width="100%" />
-</p>
 
 ---
 
