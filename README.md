@@ -9,7 +9,7 @@
 <p align="center">
   Lecturer & Systems Developer passionate about coding & AI.  
   <br>
-  🌍 Currently in Moscow 🇷🇺 | 🧠 Master's in Software Engineering  
+  🧠 Master's in Software Engineering  
 </p>
 
 ---
