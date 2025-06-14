@@ -3,7 +3,7 @@
  
 </p>
 
-<h1 align="center">Hi, I'm Abdulmajeed Adel Al-Harazi 👋<br>aka <a href="https://github.com/majeedev">majeedev</a> 👨‍💻</h1>
+<h1 align="center">Hi, I'm Abdulmajeed Adel Al-Harazi 👋<br>aka <a href="https://majeedev.github.io/portfolio/">majeedev</a> 👨‍💻</h1>
 
 
 <p align="center">
@@ -35,7 +35,7 @@
 ## 🧠 About Me
 
 - 👨‍🏫 Lecturer & Systems Developer at several universities
-- 💻 Laravel & Flutter Developer
+- 💻 Laravel & Systemen analysis
 - 🤖 Passionate about AI-powered solutions
 - 📬 Contact me: almajee2001@gmail.com
 
@@ -57,7 +57,9 @@
 ## 🔗 Featured Projects
 
 - 🌐 [Inova Technology](https://inoovatech-main-w3gfin.laravel.cloud/)
-- 🎨 [Lamset Fun](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)
+- 🌐 [Lamset Fun](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)
+- 🌐 [AbnKaldon E_Library site](https://abn-kaldon.kesug.com/)
+- 🌐 [Educational-platform](https://majeedev.github.io/Educational-platform/)
 
 ---
 
@@ -66,11 +68,11 @@
 <details>
 <summary id="العربية"><strong>🇸🇦 العربية</strong></summary>
 
-### 👋 مرحباً، أنا عبدالمجيد عادل الحرازي – aka [majeedev](https://github.com/majeedev) 👨‍💻
+### 👋 مرحباً، أنا عبدالمجيد عادل الحرازي – aka [majeedev](https://majeedev.github.io/portfolio/) 👨‍💻
 
 #### 🧠 عني:
 - 👨‍🏫 محاضر ومطور نظم في عدة جامعات  
-- 💻 أعمل على مشاريع باستخدام Laravel وFlutter  
+- 💻 أعمل على مشاريع باستخدام Laravel وتحليل النظم  
 - 🌍 أعيش حاليًا في موسكو لدراسة الماجستير في هندسة البرمجيات 🇷🇺  
 - 📈 شغفي هو بناء حلول تقنية تمزج بين البرمجة والذكاء الاصطناعي  
 
@@ -86,10 +88,12 @@
 ![majeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=majeedev&show_icons=true&theme=radical)
 
 #### 🌐 روابط مهمة:
-- 💼 [موقعي الشخصي (قريبًا)](https://majeedev.com)  
+- 💼 [موقعي الشخصي](https://majeedev.github.io/portfolio/)  
 - 🔗 مشاريعي الحية على Laravel Cloud:  
-  - [انوفا تكنولوجي](https://inoovatech-main-w3gfin.laravel.cloud/)  
-  - [لمسة فن](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)  
+  - 🌐 [انوفا تكنولوجي](https://inoovatech-main-w3gfin.laravel.cloud/)  
+  - 🌐 [لمسة فن](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)
+  - 🌐 [مكتبة ابن خلدون](https://abn-kaldon.kesug.com/)  
+  - 🌐 [المنصة التعليمية](https://majeedev.github.io/Educational-platform/)  
 
 📬 للتواصل: almajee2001@gmail.com
 
@@ -104,7 +108,7 @@
 
 #### 🧠 Обо мне:
 - 👨‍🏫 Преподаватель и разработчик систем в нескольких университетах  
-- 💻 Работаю с проектами на Laravel и Flutter  
+- 💻 Работаю с проектами на Laravel и системный анализ  
 - 🌍 Сейчас живу в Москве, изучаю магистратуру по Инженерии ПО 🇷🇺  
 - 📈 Увлечён созданием умных решений, объединяющих код и ИИ  
 
@@ -120,10 +124,13 @@
 ![majeedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=majeedev&show_icons=true&theme=radical)
 
 #### 🌐 Полезные ссылки:
-- 💼 [Персональный сайт (скоро)](https://majeedev.com)  
+- 💼 [Персональный сайт](https://majeedev.github.io/portfolio/)  
 - 🔗 Мои проекты на Laravel:  
-  - [Inova Technology](https://inoovatech-main-w3gfin.laravel.cloud/)  
-  - [Lamset Fun](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)  
+  - 🌐 [Inova Technology](https://inoovatech-main-w3gfin.laravel.cloud/)  
+  - 🌐 [Lamset Fun](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)
+  - 🌐 [Inova Technology](https://inoovatech-main-w3gfin.laravel.cloud/)  
+  - 🌐 [Lamset Fun](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)  
+
 
 📬 Связь: almajee2001@gmail.com
 
@@ -155,9 +162,11 @@
 
 #### 🌐 Useful Links:
 - 💼 [Personal Website (coming soon)](https://majeedev.com)  
-- 🔗 Live Laravel Projects:  
-  - [Inova Technology](https://inoovatech-main-w3gfin.laravel.cloud/)  
-  - [Lamset Fun](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)  
+- 🔗 Live Laravel Projects:
+- 🌐 [Inova Technology](https://inoovatech-main-w3gfin.laravel.cloud/)
+- 🌐 [Lamset Fun](https://decorationmanagemntsystem-laravel-10-master-pytztm.laravel.cloud/)
+- 🌐 [AbnKaldon E_Library site](https://abn-kaldon.kesug.com/)
+- 🌐 [Educational-platform](https://majeedev.github.io/Educational-platform/)
 
 📬 Contact me: almajee2001@gmail.com
 
