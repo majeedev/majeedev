@@ -14,7 +14,7 @@
 
 ---
 
-## 📊 GitHub Profile Stats (Visual Dashboard)
+## 📊 GitHub Profile Stats 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=majeedev&theme=tokyonight" />
@@ -28,6 +28,15 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=majeedev&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=majeedev&theme=tokyonight&utcOffset=+3" />
+</p>
+
+
+<p align="center">
+  <img
+    src="https://quickchart.io/chart?c=%7Btype%3A'doughnut'%2Cdata%3A%7Blabels%3A%5B'Blade'%2C'PHP'%2C'HTML'%2C'C%23'%5D%2Cdatasets%3A%5B%7Bdata%3A%5B30%2C30%2C20%2C20%5D%7D%5D%7D%7D"
+    alt="Blade Language Usage Pie Chart"
+    width="400"
+  />
 </p>
 
 ---
